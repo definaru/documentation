@@ -1,4 +1,4 @@
-![0%](https://badgen.net/badge/Created/0%25/gray)
+![0%](https://badgen.net/badge/Created/0%25/dark-gray)
 
 ![0%](https://badgen.net/badge/In%20the%20process/15%25/red)
 
