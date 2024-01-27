@@ -24,7 +24,7 @@
 
 ---
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definaru&layout=compact&theme=vision-friendly-dark&background=22272e)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definaru&layout=compact&theme=dark&background=33372e)
 
 ---
 
